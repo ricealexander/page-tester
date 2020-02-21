@@ -1,0 +1,16 @@
+{
+  "name": "page-tester",
+  "version": "1.0.0",
+  "description": "Test whether pages exist",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asyncmap": "^1.0.0",
+    "axios": "^0.19.2",
+    "round-to": "^4.1.0"
+  }
+}
